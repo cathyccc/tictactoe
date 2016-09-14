@@ -1,3 +1,7 @@
+body{
+  font-family: "Helvetica";
+}
+
 .square{
   width: 200px;
   height: 200px;
@@ -6,4 +10,6 @@
 
 .grid{
   border-collapse: collapse;
+  font-size: 150px;
+  text-align: center;
 }
